@@ -1,6 +1,6 @@
 # Data Warehouse KC
 
-This repository contain the SQL's scripts to do the data warehouse of phone company and solve some problems from Practica_DWH.pdf file.
+This repository contain the SQL's scripts to do the data warehouse of phone company and to solve some problems from Practica_DWH.pdf file.
 The programming language that we use is MySQL.
 
 This repository has the following files:
